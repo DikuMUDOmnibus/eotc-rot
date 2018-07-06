@@ -1,0 +1,164 @@
+#AREADATA
+Name Mirkwood~
+Builders None~
+VNUMs 8800 8899
+Credits {B[ 10-30 ] Mirkwood~
+Security 9
+RepopMsg REPOP!~
+End
+
+
+
+#MOBILES
+#8800
+sylvan elf scout~
+a sylvan elf scout~
+A Sylvan Elf scout is offended at your intrusion!
+~
+The Sylvan Elves are a good people, but centuries of subjection to the
+violences and prejudices of other races have made them wary and very
+hostile toward outsiders. However, if you're tough enough, perhaps he'll
+back down. As natives of Mirkwood, they are virtually imposssible to see
+if they don't want to be seen.
+~
+elf~
+ABCFG J FJQ ABCDEFGHIJK 400 0
+10 0 2d6+60 1d1+99 1d6+1 punch
+5 5 5 10
+DF ABIN ABNZ AGHMVZ
+stand sit male 103
+AHMV ABCDEFGHIJK small 0
+#8801
+sylvan elf warrior~
+a sylvan elf warrior~
+A Sylvan Elf warrior lunges at you with his sword!
+~
+The Sylvan Elves are a good people, but centuries of subjection to the
+violences and prejudices of other races have made them wary and very
+hostile toward outsiders. However, if you're tough enough, perhaps he'll
+back down.
+~
+elf~
+ABCFG J J ABCDEFGHIJK 400 0
+14 2 2d6+84 1d1+99 1d8+1 slice
+5 5 7 10
+CEF AB BZ ADHMVZ
+rest stand male 150
+AHMV ABCDEFGHIJK small 0
+#8802
+orc scout~
+an orc scout~
+An Orcish scout screams and attacks!
+~
+These foul creatures have been sent in advance by Orcish forces to scout
+out the defenses of Mirkwood. So far, their attempts have resulted only
+in their own demise, but eventually the Elves will be worn down by the
+sheer weight of numbers of the immense Orcish hordes.
+~
+orc~
+ABCFGH J Ja ABCDEFGHIJK -400 0
+10 0 2d6+60 1d1+99 1d6+1 slap
+10 5 10 10
+CDFO ABQ CDS ACDHMPV
+stand stand male 211
+AHMV ABCDEFGHIJK medium 0
+#8803
+orc warrior~
+an orc warrior~
+An Orcish warrior screams and attacks!
+~
+These fell minions of Sauron have been sent in an attempt to subjugate
+Mirkwood. So far, their attempts have resulted only in their own demise,
+but eventually the Elves will be worn down by the sheer weight of numbers 
+of the immense Orcish hordes.
+~
+orc~
+ACFG J Ja ABCDEFGHIJK -400 0
+10 1 2d6+60 1d1+99 1d6+1 grep
+5 5 7 5
+CEINO ABQ CDS ACHMPV
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#8804
+guard~
+a wood elf guard~
+A Wood Elf guard angrily accosts you.
+~
+This angry guard is incensed at your trespass in the hall of his king, and
+will attempt to forcibly eject you.
+~
+elf~
+AFGQT J J ABCDEFGHIJK 400 8807
+16 0 2d7+98 1d1+99 1d7+2 smash
+3 3 3 5
+CKNRT ABHLN BZ AHMVZ
+stand stand male 50
+AHMV ABCDEFGHIJK small 0
+#8805
+chief guard~
+the chief of the guard~
+A Wood Elf chief of the guard lunges at you with his sword!
+~
+The Wood Elves are a good people, but centuries of subjection to the
+violences and prejudices of other races have made them wary and very
+hostile toward outsiders. However, if you're tough enough, perhaps he'll
+back down.
+~
+elf~
+ABCFGQ J J ABCDEFGHIJK 400 0
+24 1 2d10+150 1d1+99 1d10+3 claw
+1 1 0 7
+CDEFRTU BHLN BCZ AHMVZ
+stand stand male 100
+AHMV ABCDEFGHIJK medium 0
+#8806
+galion butler~
+Galion the butler~
+A Wood Elf butler glares at you accusingly.
+~
+Galion has a tremenous fondness for Dorwinion Wine, and he is now well and
+truly inebriated. However that does not mean he won't react to your intrusion.
+~
+elf~
+ABCFG J J ABCDEFGHIJK 400 0
+20 0 2d7+120 1d1+99 2d4+2 punch
+2 2 2 8
+KN AB BZ AHMVZ
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#8807
+thranduil king~
+Thranduil, king of the Wood Elves~
+Thranduil, King of the Wood Elves, eyes you suspiciously.
+~
+While not immune to the prejudices of his brethren, Thranduil is a trifle
+wiser (and more civilized) and he will not attack without provocation.
+~
+elf~
+ABGR J J ABCDEFGHIJK 500 0
+30 1 3d9+180 1d1+149 2d5+1 claw
+-1 -1 -1 2
+CDEK B BDZ AHMVZ
+sit sit male 0
+AHMV ABCDEFGHIJK medium 0
+#8808
+wood elf male~
+a male wood elf~
+A male Wood Elf glares angrily at you.
+~
+This person won't attack you like the guards will, but that doesn't mean
+he likes you any more than they do...
+~
+elf~
+ACGQ J J ABCDEFGHIJK 400 0
+12 0 2d7+70 1d1+99 1d7+1 punch
+4 4 4 5
+FR B BZ AHMVZ
+stand stand male 0
+AHMV ABCDEFGHIJK small 0
+#8809
+wood elf female~
+a female wood elf~
+A female Wood Elf glares angrily at you.
+~
+This person won't att

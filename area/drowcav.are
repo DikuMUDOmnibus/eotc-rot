@@ -1,0 +1,695 @@
+#AREADATA
+Name Drow Cavern~
+Builders Xrakisis~
+VNUMs 11001 11100
+Credits {M[ 50-60 ] Drow Caverns{x~
+Security 9
+RepopMsg (null)~
+End
+
+
+
+#MOBILES
+#11001
+Drow~
+a {YD{yr{ro{Rw{x~
+A {YD{yr{ro{Rw{x is here.
+~
+~
+elf~
+ABGR J DFJ ABCDEFGHIJK 0 0
+103 0 50d10+6000 1d100+15000 6d7+21 magic
+-33 -34 -35 -34
+EFG B BJKZ AHMVZ
+stand stand female 930
+AHMV ABCDEFGHIJK medium 0
+#11002
+Drow~
+a {YD{yr{ro{Rw{x~
+A {YD{yr{ro{Rw{x is here.
+~
+~
+elf~
+ABGR J DFJ ABCDEFGHIJK 0 0
+103 0 50d10+6000 1d100+15000 6d7+21 magic
+-33 -34 -35 -34
+EFG B BJKZ AHMVZ
+stand stand female 930
+AHMV ABCDEFGHIJK medium 0
+#11003
+Drow~
+a {YD{yr{ro{Rw{x~
+A {YD{yr{ro{Rw{x is here.
+~
+~
+elf~
+ABGR J DFJ ABCDEFGHIJK 0 0
+103 0 50d10+6000 1d100+15000 6d7+21 magic
+-33 -34 -35 -34
+EFG B BJKZ AHMVZ
+stand stand female 930
+AHMV ABCDEFGHIJK medium 0
+#11004
+Drow~
+a {YD{yr{ro{Rw{x~
+A {YD{yr{ro{Rw{x is here.
+~
+~
+elf~
+ABGR J DFJ ABCDEFGHIJK 0 0
+103 0 50d10+6000 1d100+15000 6d7+21 magic
+-33 -34 -35 -34
+EFG B BJKZ AHMVZ
+stand stand female 930
+AHMV ABCDEFGHIJK medium 0
+#11005
+Drow~
+a {YD{yr{ro{Rw{x~
+A {YD{yr{ro{Rw{x is here.
+~
+~
+elf~
+ABGR J DFJ ABCDEFGHIJK 0 0
+103 0 50d10+6000 1d100+15000 6d7+21 magic
+-33 -34 -35 -34
+EFG B BJKZ AHMVZ
+stand stand female 930
+AHMV ABCDEFGHIJK medium 0
+#11006
+Drow~
+a {YD{yr{ro{Rw{x~
+A {YD{yr{ro{Rw{x is here.
+~
+~
+elf~
+ABGR J DFJ ABCDEFGHIJK 0 0
+103 0 50d10+6000 1d100+15000 6d7+21 magic
+-33 -34 -35 -34
+EFG B BJKZ AHMVZ
+stand stand female 930
+AHMV ABCDEFGHIJK medium 0
+#11007
+Drow~
+a {YD{yr{ro{Rw{x~
+A {YD{yr{ro{Rw{x is here.
+~
+~
+elf~
+ABGR J DFJ ABCDEFGHIJK 0 0
+103 0 50d10+6000 1d100+15000 6d7+21 magic
+-33 -34 -35 -34
+EFG B BJKZ AHMVZ
+stand stand female 930
+AHMV ABCDEFGHIJK medium 0
+#11008
+Drow~
+a {YD{yr{ro{Rw{x~
+A {YD{yr{ro{Rw{x is here.
+~
+~
+elf~
+ABGR J DFJ ABCDEFGHIJK 0 0
+103 0 50d10+6000 1d100+15000 6d7+21 magic
+-33 -34 -35 -34
+EFG B BJKZ AHMVZ
+stand stand female 930
+AHMV ABCDEFGHIJK medium 0
+#11009
+Drow~
+a {YD{yr{ro{Rw{x~
+A {YD{yr{ro{Rw{x is here.
+~
+~
+elf~
+ABGR J DFJ ABCDEFGHIJK 0 0
+103 0 50d10+6000 1d100+15000 6d7+21 magic
+-33 -34 -35 -34
+EFG B BJKZ AHMVZ
+stand stand female 930
+AHMV ABCDEFGHIJK medium 0
+#11010
+Drow~
+a {YD{yr{ro{Rw{x~
+A {YD{yr{ro{Rw{x is here.
+~
+~
+elf~
+ABGR J DFJ ABCDEFGHIJK 0 0
+103 0 50d10+6000 1d100+15000 6d7+21 magic
+-33 -34 -35 -34
+EFG B BJKZ AHMVZ
+stand stand female 930
+AHMV ABCDEFGHIJK medium 0
+#11011
+Drow~
+a {YD{yr{ro{Rw{x~
+A {YD{yr{ro{Rw{x is here.
+~
+~
+elf~
+ABGR J DFJ ABCDEFGHIJK 0 0
+103 0 50d10+6000 1d100+15000 6d7+21 magic
+-33 -34 -35 -34
+EFG B BJKZ AHMVZ
+stand stand female 930
+AHMV ABCDEFGHIJK medium 0
+#11012
+Drow~
+a {YD{yr{ro{Rw{x~
+A {YD{yr{ro{Rw{x is here.
+~
+~
+elf~
+ABGR J DFJ ABCDEFGHIJK 0 0
+103 0 50d10+6000 1d100+15000 6d7+21 magic
+-33 -34 -35 -34
+EFG B BJKZ AHMVZ
+stand stand female 930
+AHMV ABCDEFGHIJK medium 0
+#11013
+Drow~
+a {YD{yr{ro{Rw{x~
+A {YD{yr{ro{Rw{x is here.
+~
+~
+elf~
+ABGR J DFJ ABCDEFGHIJK 0 0
+103 0 50d10+6000 1d100+15000 6d7+21 magic
+-33 -34 -35 -34
+EFG B BJKZ AHMVZ
+stand stand female 930
+AHMV ABCDEFGHIJK medium 0
+#11014
+Drow~
+a {YD{yr{ro{Rw{x~
+A {YD{yr{ro{Rw{x is here.
+~
+~
+elf~
+ABGR J DFJ ABCDEFGHIJK 0 0
+103 0 50d10+6000 1d100+15000 6d7+21 magic
+-33 -34 -35 -34
+EFG B BJKZ AHMVZ
+stand stand female 930
+AHMV ABCDEFGHIJK medium 0
+#11015
+Drow~
+a {YD{yr{ro{Rw{x~
+A {YD{yr{ro{Rw{x is here.
+~
+~
+elf~
+ABGR J DFJ ABCDEFGHIJK 0 0
+103 0 50d10+6000 1d100+15000 6d7+21 magic
+-33 -34 -35 -34
+EFG B BJKZ AHMVZ
+stand stand female 930
+AHMV ABCDEFGHIJK medium 0
+#11016
+Drow~
+a {YD{yr{ro{Rw{x~
+A {YD{yr{ro{Rw{x is here.
+~
+~
+elf~
+ABGR J DFJ ABCDEFGHIJK 0 0
+103 0 50d10+6000 1d100+15000 6d7+21 magic
+-33 -34 -35 -34
+EFG B BJKZ AHMVZ
+stand stand female 930
+AHMV ABCDEFGHIJK medium 0
+#11017
+Drow~
+a {YD{yr{ro{Rw{x~
+A {YD{yr{ro{Rw{x is here.
+~
+~
+elf~
+ABGR J DFJ ABCDEFGHIJK 0 0
+103 0 50d10+6000 1d100+15000 6d7+21 magic
+-33 -34 -35 -34
+EFG B BJKZ AHMVZ
+stand stand female 930
+AHMV ABCDEFGHIJK medium 0
+#11018
+Drow~
+a {YD{yr{ro{Rw{x~
+A {YD{yr{ro{Rw{x is here.
+~
+~
+elf~
+ABGR J DFJ ABCDEFGHIJK 0 0
+103 0 50d10+6000 1d100+15000 6d7+21 magic
+-33 -34 -35 -34
+EFG B BJKZ AHMVZ
+stand stand female 930
+AHMV ABCDEFGHIJK medium 0
+#11019
+Drow~
+a {YD{yr{ro{Rw{x~
+A {YD{yr{ro{Rw{x is here.
+~
+~
+elf~
+ABGR J DFJ ABCDEFGHIJK 0 0
+103 0 50d10+6000 1d100+15000 6d7+21 magic
+-33 -34 -35 -34
+EFG B BJKZ AHMVZ
+stand stand female 930
+AHMV ABCDEFGHIJK medium 0
+#11020
+Alreen~
+{YA{yl{Rr{re{Re{Yn{x~
+{YA{yl{Rr{re{Re{Yn{x Stands Here.
+~
+~
+elf~
+ABGR J DFJ ABCDEFGHIJK 0 0
+103 0 50d10+6000 1d100+15000 6d7+21 magic
+-33 -34 -35 -34
+EFG B BJKZ AHMVZ
+stand stand female 930
+AHMV ABCDEFGHIJK medium 0
+#0
+
+
+
+#OBJECTS
+#11001
+alreens black rune breastplate~
+a Black {GR{gu{Gn{ge {YBreastplate{x~
+A Black {GR{gu{Gn{ge {YBreastplate{x is here.~
+iron~
+armor AI AD
+22 22 22 18 0
+97 30 10000 P
+A
+19 10
+A
+19 7
+A
+18 7
+A
+12 125
+A
+3 5
+E
+Alreen's Breastplate~
+~
+#0
+
+
+
+#ROOMS
+#11001
+Drow Intersection~
+~
+0 0 0
+D0
+~
+~
+0 0 11002
+D1
+~
+~
+0 0 11010
+D2
+~
+~
+0 0 11019
+D3
+~
+~
+0 0 11011
+D4
+~
+~
+0 0 3527
+S
+#11002
+Drow Cavern~
+~
+0 0 0
+D0
+~
+~
+0 0 11003
+D2
+~
+~
+0 0 11001
+S
+#11003
+Drow Cavern~
+~
+0 0 0
+D0
+~
+~
+0 0 11004
+D2
+~
+~
+0 0 11002
+S
+#11004
+Drow Cavern~
+~
+0 0 0
+D0
+~
+~
+0 0 11005
+D2
+~
+~
+0 0 11003
+S
+#11005
+Drow Cavern~
+~
+0 0 0
+D1
+~
+~
+0 0 11006
+D2
+~
+~
+0 0 11004
+S
+#11006
+Drow Cavern~
+~
+0 0 0
+D1
+~
+~
+0 0 11007
+D3
+~
+~
+0 0 11005
+S
+#11007
+Drow Cavern~
+~
+0 0 0
+D2
+~
+~
+0 0 11008
+D3
+~
+~
+0 0 11006
+S
+#11008
+Drow Cavern~
+~
+0 0 0
+D0
+~
+~
+0 0 11007
+D1
+~
+~
+0 0 11009
+S
+#11009
+Drow Caverns~
+~
+0 0 0
+D2
+~
+~
+0 0 11010
+D3
+~
+~
+0 0 11008
+S
+#11010
+Drow Cavern~
+~
+0 0 0
+D0
+~
+~
+0 0 11009
+D3
+~
+~
+0 0 11001
+S
+#11011
+Drow Cavern~
+~
+0 0 0
+D1
+~
+~
+0 0 11001
+D3
+~
+~
+0 0 11012
+S
+#11012
+Drow Cavern~
+~
+0 0 0
+D1
+~
+~
+0 0 11011
+D2
+~
+~
+0 0 11013
+S
+#11013
+Drow Cavern~
+~
+0 0 0
+D0
+~
+~
+0 0 11012
+D3
+~
+~
+0 0 11014
+S
+#11014
+Drow Cavern~
+~
+0 0 0
+D1
+~
+~
+0 0 11013
+D2
+~
+~
+0 0 11015
+S
+#11015
+Drow Cavern~
+~
+0 0 0
+D0
+~
+~
+0 0 11014
+D1
+~
+~
+0 0 11016
+S
+#11016
+Drow Cavern~
+~
+0 0 0
+D1
+~
+~
+0 0 11017
+D3
+~
+~
+0 0 11015
+S
+#11017
+Drow Cavern~
+~
+0 0 0
+D0
+~
+~
+0 0 11018
+D3
+~
+~
+0 0 11016
+S
+#11018
+Drow Cavern~
+~
+0 0 0
+D0
+~
+~
+0 0 11019
+D2
+~
+~
+0 0 11017
+S
+#11019
+Drow Cavern~
+~
+0 0 0
+D0
+~
+~
+0 0 11001
+D1
+~
+~
+0 0 11020
+D2
+~
+~
+0 0 11018
+S
+#11020
+Alreen's Room~
+~
+0 0 0
+D3
+~
+~
+0 0 11019
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 11001 5 11001 5
+M 0 11001 5 11001 5
+M 0 11001 5 11001 5
+M 0 11001 5 11001 5
+M 0 11001 5 11001 5
+M 0 11002 5 11002 5
+M 0 11002 5 11002 5
+M 0 11002 5 11002 5
+M 0 11002 5 11002 5
+M 0 11002 5 11002 5
+M 0 11003 5 11003 5
+M 0 11003 5 11003 5
+M 0 11003 5 11003 5
+M 0 11003 5 11003 5
+M 0 11003 5 11003 5
+M 0 11004 5 11004 5
+M 0 11004 5 11004 5
+M 0 11004 5 11004 5
+M 0 11004 5 11004 5
+M 0 11004 5 11004 5
+M 0 11005 5 11005 5
+M 0 11005 5 11005 5
+M 0 11005 5 11005 5
+M 0 11005 5 11005 5
+M 0 11005 5 11005 5
+M 0 11006 5 11006 5
+M 0 11006 5 11006 5
+M 0 11006 5 11006 5
+M 0 11006 5 11006 5
+M 0 11006 5 11006 5
+M 0 11007 5 11007 5
+M 0 11007 5 11007 5
+M 0 11007 5 11007 5
+M 0 11007 5 11007 5
+M 0 11007 5 11007 5
+M 0 11008 5 11008 5
+M 0 11008 5 11008 5
+M 0 11008 5 11008 5
+M 0 11008 5 11008 5
+M 0 11008 5 11008 5
+M 0 11009 5 11009 5
+M 0 11009 5 11009 5
+M 0 11009 5 11009 5
+M 0 11009 5 11009 5
+M 0 11009 5 11009 5
+M 0 11010 5 11010 5
+M 0 11010 5 11010 5
+M 0 11010 5 11010 5
+M 0 11010 5 11010 5
+M 0 11010 5 11010 5
+M 0 11011 5 11011 5
+M 0 11011 5 11011 5
+M 0 11011 5 11011 5
+M 0 11011 5 11011 5
+M 0 11011 5 11011 5
+M 0 11012 5 11012 5
+M 0 11012 5 11012 5
+M 0 11012 5 11012 5
+M 0 11012 5 11012 5
+M 0 11012 5 11012 5
+M 0 11013 5 11013 5
+M 0 11013 5 11013 5
+M 0 11013 5 11013 5
+M 0 11013 5 11013 5
+M 0 11013 5 11013 5
+M 0 11014 5 11014 5
+M 0 11014 5 11014 5
+M 0 11014 5 11014 5
+M 0 11014 5 11014 5
+M 0 11014 5 11014 5
+M 0 11015 5 11015 5
+M 0 11015 5 11015 5
+M 0 11015 5 11015 5
+M 0 11015 5 11015 5
+M 0 11015 5 11015 5
+M 0 11016 5 11016 5
+M 0 11016 5 11016 5
+M 0 11016 5 11016 5
+M 0 11016 5 11016 5
+M 0 11016 5 11016 5
+M 0 11017 5 11017 5
+M 0 11017 5 11017 5
+M 0 11017 5 11017 5
+M 0 11017 5 11017 5
+M 0 11017 5 11017 5
+M 0 11018 5 11018 5
+M 0 11018 5 11018 5
+M 0 11018 5 11018 5
+M 0 11018 5 11018 5
+M 0 11018 5 11018 5
+M 0 11019 5 11019 5
+M 0 11019 5 11019 5
+M 0 11019 5 11019 5
+M 0 11019 5 11019 5
+M 0 11019 5 11019 5
+M 0 11020 1 11020 1
+E 0 11001 0 5
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

@@ -1,0 +1,431 @@
+Sender  Landren~
+Date    Thu Aug  6 01:25:09 2009~
+Stamp   1249536401
+Expire  1251350734
+To      immortal all~
+Subject stuff~
+Text
+I took houses out just for a brief time...that code in therre
+is a trainwreck, especially for do_house which handles the
+building of the house, selling, listing, etc. I'm gonna write
+it from scratch tomorrow.
+ 
+Peace
+~
+
+Sender  Landren~
+Date    Thu Aug  6 02:11:57 2009~
+Stamp   1249539195
+Expire  1251353524
+To      immortal all~
+Subject Copyover~
+Text
+Oh yeah, I remembered later that I hadn't rebooted the
+mud with copyover to ensure that there's no problematic
+rom executable and potential crashes.
+ 
+Thanks and I've already started rewriting the player homes.
+~
+
+Sender  Zantow~
+Date    Mon Aug 10 23:39:05 2009~
+Stamp   1249961956
+Expire  1251776350
+To      all imm~
+Subject word of recall~
+Text
+it uses moves?:)
+~
+
+Sender  Zantow~
+Date    Mon Aug 10 23:39:22 2009~
+Stamp   1249961988
+Expire  1251776365
+To      all imm~
+Subject quest~
+Text
+i broke my questingness.......i kinda crashed the mud
+and now i'm perpetually questing.......
+~
+
+Sender  Zantow~
+Date    Mon Aug 10 23:52:55 2009~
+Stamp   1249962796
+Expire  1251777187
+To      all imm~
+Subject ogre shaman is wearing his gauntlets on his arms again~
+Text
+er......wutthatsays
+~
+
+Sender  Zantow~
+Date    Mon Aug 10 23:58:31 2009~
+Stamp   1249963132
+Expire  1251777517
+To      all imm~
+Subject goblin guards~
+Text
+they don't die....just stay at 0.00 and crash mud a few
+rounds later....
+~
+
+Sender  Squishy~
+Date    Sun Aug 16 18:29:00 2009~
+Stamp   1250461777
+Expire  1252276144
+To      all imm~
+Subject my aura~
+Text
+i got transported and keeled so i have no idea
+where my corpse is to git my aura:(
+well, not my corpse cuz its in morgue but u know 
+wut i mean:P
+~
+
+Sender  Xrakisis~
+Date    Wed Aug  5 13:42:34 2009~
+Stamp   1249494185
+Expire  1253814163
+To      all~
+Subject Boards~
+Text
+There will soon be an expanded Boards system.
+ 
+~
+
+Sender  Squishy~
+Date    Sun Sep 20 23:01:28 2009~
+Stamp   1253502101
+Expire  1255316493
+To      all imm~
+Subject wb~
+Text
+welcome back and nice colors:)
+~
+
+Sender  Fraz~
+Date    Sat Oct 10 17:37:01 2009~
+Stamp   1255210831
+Expire  1257025044
+To      bugs all~
+Subject Questmaster quirk, bug or feature?~
+Text
+When you are waiting on the timer to expire to get another quest
+if you use quest resign it will reset the time to zero
+even if you're not on a quest at the time.
+The same thing happens if you get a quest you don't want,
+just resign the quest you got and request another until you get one
+that you like.
+ 
+Fraz
+~
+
+Sender  Fraz~
+Date    Sat Oct 10 19:01:39 2009~
+Stamp   1255215812
+Expire  1257030108
+To      bugs all~
+Subject Crash~
+Text
+I have no idea what it causing it but I have been fighting kenders
+and the mud seems to randomly crash. I wasn't using any skills
+or anything when it did it, besides circle, but that was already
+done when it would crash.
+ 
+Fraz
+~
+
+Sender  Squishy~
+Date    Mon Nov 16 21:59:08 2009~
+Stamp   1258426766
+Expire  1260241152
+To      all imm~
+Subject er.....~
+Text
+You gain 407 hit points, 2655 mana, 2880 move, and 50 practices.
+that's with con at 250......and wis at 200
+~
+
+Sender  Squishy~
+Date    Thu Nov 19 21:48:37 2009~
+Stamp   1258685330
+Expire  1260499723
+To      all imm~
+Subject daggermoon~
+Text
+how do you get into it?
+~
+
+Sender  Squishy~
+Date    Thu Nov 26 18:50:33 2009~
+Stamp   1259279492
+Expire  1261093837
+To      all imm~
+Subject er.......~
+Text
+chat i have over 1k hrdr.......
+hehehe, i said chat......
+i have over 1k avg on both my blades......
+YET
+You've dealt 38 attacks causing 1456 damage. (38 average)
+any ideas?
+~
+
+Sender  Squishy~
+Date    Mon Nov 30 22:38:56 2009~
+Stamp   1259638777
+Expire  1261453155
+To      all imm~
+Subject parrys/dodges......~
+Text
+make em go away;)
+they spammy when u r low in stance %
+~
+
+Sender  Squishy~
+Date    Tue Dec 15 23:27:37 2009~
+Stamp   1260937698
+Expire  1262752066
+To      all imm~
+Subject stances~
+Text
+i gm'd tiger and hardly miss.......
+gm'd dragon and hardly hit.....
+i know viper helps, but really??
+~
+
+Sender  Squishy~
+Date    Sat Apr 17 22:27:17 2010~
+Stamp   1271557657
+Expire  1273372041
+To      all~
+Subject wheeee~
+Text
+glad to see we're back up!!!
+~
+
+Sender  Squishy~
+Date    Mon Apr 26 22:15:47 2010~
+Stamp   1272334562
+Expire  1274148951
+To      all imm~
+Subject quest~
+Text
+quest giveup/resign?:P
+~
+
+Sender  Branton~
+Date    Mon Sep 27 06:19:14 2010~
+Stamp   1285582834
+Expire  1287397164
+To      all~
+Subject Combat Spam~
+Text
+I find the flags on my weapons are spamming me out of the game.
+Is there a way to block this?
+~
+
+Sender  Branton~
+Date    Tue Sep 28 07:12:07 2010~
+Stamp   1285672406
+Expire  1287486733
+To      all~
+Subject Questing~
+Text
+My questing ability seems to be broken. When I request a quest it says
+I am already on one but I have no quest info or quest time.
+I even saw the message saying I was able to quest again.
+~
+
+Sender  Sorzin~
+Date    Tue Sep 28 15:16:49 2010~
+Stamp   1285701434
+Expire  1287515815
+To      all~
+Subject backstab~
+Text
+backstab will not practice. dont know if this is intentional or not.
+~
+
+Sender  Zilba~
+Date    Mon Nov  1 16:21:28 2010~
+Stamp   1288642959
+Expire  1290457299
+To      all~
+Subject wut did u do:P~
+Text
+damn xrak......lotsa potential with this one
+anyway i can get a reimb though? and still need lotsa
+work on stuffs, so good luck!!
+p
+~
+
+Sender  Squirt~
+Date    Wed Nov  3 13:02:15 2010~
+Stamp   1288803826
+Expire  1290618139
+To      all~
+Subject focus~
+Text
+can you work on focus? it doesnt really seem to work.....
+so far, adding hp is the only one, the +con part doesnt
+also, can you maybe up the hp bonus the higher the focus lvl?
+40 doesnt work when u gain like 350avg per lvl per class......
+~
+
+Sender  Squirt~
+Date    Wed Nov  3 13:36:50 2010~
+Stamp   1288805837
+Expire  1290620214
+To      all~
+Subject lvl gains~
+Text
+need to up mana a tad and moves a ton.....
+550hp/125 mana/6 move
+~
+
+Sender  Squirt~
+Date    Wed Nov  3 13:51:19 2010~
+Stamp   1288806691
+Expire  1290621084
+To      all~
+Subject quest flag~
+Text
+put one in please:D
+~
+
+Sender  Squirt~
+Date    Wed Nov  3 14:42:12 2010~
+Stamp   1288809742
+Expire  1290624135
+To      all~
+Subject lore~
+Text
+doesnt work....
+~
+
+Sender  Squirt~
+Date    Wed Nov  3 14:45:23 2010~
+Stamp   1288809976
+Expire  1290624326
+To      all~
+Subject ray of truth~
+Text
+Your ray of truth scratches the vagabond for >>-86758<< damage.
+The vagabond: [********* ] [.00]
+The vagabond: [********* ] [9751.00]
+wouldnt let me put in the percent sign:P
+~
+
+Sender  Squirt~
+Date    Wed Nov  3 16:15:36 2010~
+Stamp   1288815357
+Expire  1290629740
+To      all~
+Subject quest flag~
+Text
+can you put target on the mob? sux when
+there's tons of the mob in an area
+~
+
+Sender  Squirt~
+Date    Wed Nov  3 16:58:12 2010~
+Stamp   1288817926
+Expire  1290632307
+To      all~
+Subject mob death~
+Text
+how aboot when a mob dies, ALL their items fall:P
+~
+
+Sender  Squirt~
+Date    Fri Nov  5 11:44:53 2010~
+Stamp   1288971916
+Expire  1290786302
+To      all~
+Subject first grandmaster~
+Text
+he's too cute 'n cuddly to kill......
+i wanna kill him:P
+~
+
+Sender  Squirt~
+Date    Sat Nov  6 13:15:24 2010~
+Stamp   1289063742
+Expire  1290878127
+To      all~
+Subject tier~
+Text
+what do they do? i'm tier 2 and no diff that i can tell....
+~
+
+Sender  Squirt~
+Date    Sat Nov  6 14:30:03 2010~
+Stamp   1289068234
+Expire  1290882608
+To      all ~
+Subject hmmmmmm~
+Text
+402006/402006hp 1231562/1231562m 1207621/1207621mv
+anything wrong with this?
+~
+
+Sender  Squishy~
+Date    Thu Nov 11 15:16:04 2010~
+Stamp   1289506572
+Expire  1291320967
+To      all~
+Subject garrote~
+Text
+doesnt work
+~
+
+Sender  Chip~
+Date    Wed Feb 23 20:12:05 2011~
+Stamp   1298509937
+Expire  1300324329
+To      all~
+Subject ?~
+Text
+hallllloooooooooooo?
+~
+
+Sender  Chip~
+Date    Fri Feb 25 18:32:01 2011~
+Stamp   1298676730
+Expire  1300491124
+To      all~
+Subject qeq~
+Text
+y is it lvl 175:/
+~
+
+Sender  Chip~
+Date    Fri Feb 25 18:46:16 2011~
+Stamp   1298677587
+Expire  1300491980
+To      all~
+Subject iqp~
+Text
+wut to do wif em?
+~
+
+Sender  Chip~
+Date    Wed Apr 20 15:14:49 2011~
+Stamp   1303327021
+Expire  1305141296
+To      all~
+Subject level gains~
+Text
+these need to be worked on......
+40098/40098hp 93600/93600m 91163/91164mv
+at lvl 20 across
+ 
+v
+ 
+l
+v
+ok, skip those letter thingies...
+i'm temp/aven/hop/ass btw
+~
+

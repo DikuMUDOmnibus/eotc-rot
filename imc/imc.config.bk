@@ -1,0 +1,30 @@
+$IMCCONFIG
+#
+# IMC2 Freedom CL-2.1 config file.
+# This file can now support the use of tildes in your strings.
+# This information can be edited online using the 'imcconfig' command.
+LocalName      EotC
+Autoconnect    1
+MinPlayerLevel 10
+MinImmLevel    201
+AdminLevel     215
+Implevel       215
+InfoName       Eye Of The Cyclops
+InfoHost       zeno.biyg.org
+InfoPort       2850
+InfoEmail      marcusironfist@hotmail.com
+InfoWWW        Mud's webpage
+InfoBase       Rom24b6
+InfoDetails    it has cyclops and stuff.
+
+# Your server connection information goes here.
+# This information should be available from the network you plan to join.
+ServerAddr  server01.mudbytes.net
+ServerPort  5000
+ClientPwd   xrakr0x
+ServerPwd   xrakr0x
+#SHA256 auth: 0 = disabled, 1 = enabled
+SHA256         0
+End
+
+$END

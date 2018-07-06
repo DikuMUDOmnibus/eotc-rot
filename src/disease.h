@@ -1,0 +1,8 @@
+
+#define DISEASE_NORMAL		0
+#define DISEASE_WEREWOLF	1
+#define DISEASE_VAMPIRE		2
+#define DISEASE_DEMON		3
+#define DISEASE_UNDEAD		4
+#define DISEASE_HYBRID		5
+

@@ -1,0 +1,37 @@
+#!/bin/sh
+#
+#############################################################################
+# startup                                             Version 1.0
+# Created: July 11, 2000                              Kenneth Conley
+# Last Modified: July 12, 2000                        scmud@mad.scientist.com
+#############################################################################
+# Rogue v2.4 cronmud startup script
+# Contributions by Chris Jacobson and Kenneth Conley.
+#############################################################################
+# This script is designed to be used with a crontab to check if the autorun
+# script is running every 10 minutes, if not, then start it back up.
+# Edit your crontab, type crontab -e, it's a vi editor in most cases, and
+# put one of the next two lines in the crontab (The first is run each minute).
+#
+# * * * * * /home/scmud/rogue/src/.cronmud
+# 1,11,21,31,41,51 * * * * /home/rogue/src/.cronmud
+#
+# You will need to change the path to the startup script. If you do not know
+# what your path is just 'cd ..' back till you get to your home and follow
+# it up through the directories to the startup script.
+#############################################################################
+
+cd ~/drm/area
+PORT=6000
+
+if [ -f shutdown.txt ]; then
+exit 0
+fi
+
+if [ -z "`fuser ./startup`" ]; then
+    if [ -z "`fuser -n tcp $PORT`" ]; then
+        nohup ./startup &
+        DATE=`date +"%a %b %d %T %Y"`
+        printf "$DATE :: Script not detected, starting one.\n"
+    fi
+fi
